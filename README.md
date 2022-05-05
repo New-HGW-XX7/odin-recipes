@@ -5,4 +5,4 @@ For demonstration purposes both absolute and relative links will be used for ima
 Later edits using CSS will follow.
 ---
 May 5
-Some basic CSS was added.
+Some basic CSS was added. It doesn't look good but all commands seem to function as planned.

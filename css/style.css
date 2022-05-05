@@ -1,4 +1,21 @@
 img {
     height: auto;
-    width: 200px;
+    width: 400px;
+}
+
+h1 , h2 , p , li , a {
+font-family: "Time New Roman", sans-serif;
+}
+
+h1 , h2 {
+    font-weight: bold;
+    color: rgb(175, 77, 77);
+}
+
+a {
+    color: rgb(175, 77, 77);
+}
+
+li {
+    margin: 20px 0px;
 }
